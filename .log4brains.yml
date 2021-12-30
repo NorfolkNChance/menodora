@@ -1,0 +1,5 @@
+project:
+  name: menodora
+  tz: Europe/London
+  adrFolder: ./docs/adr
+  packages: []
